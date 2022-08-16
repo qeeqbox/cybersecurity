@@ -26,10 +26,10 @@ Implement appropriate safeguards to limit and prevent any impact resulting from 
 Implement appropriate methods to discover a cybersecurity event 
 - Anomalies & Events
 - Security Continuous Monitoring
-- Detection Process.
+- Detection Process
 
 #### Respond
-Implement appropriate methods to take action when a cybersecurity event is discovered
+Implement appropriate methods to take action when a cybersecurity incident is discovered
 - Response Planning
 - Communications
 - Analysis
@@ -38,7 +38,7 @@ Implement appropriate methods to take action when a cybersecurity event is disco
 
 #### Recover
 Implement appropriate methods to restore impacted functionalities
-- Response Planning,
+- Response Planning
 - Improvements
 - Communications
 
