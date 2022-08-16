@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/cybersecurity/main/cybersecurity.png"></p>
 
 ## Cybersecurity
-CS is the measures taken to protect networks, devices, and data against cyberattacks
+Cybersecurity is the measures taken to protect networks, devices, and data against cyberattacks
 
 ## Steps
 #### Identify
