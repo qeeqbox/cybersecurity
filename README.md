@@ -4,7 +4,7 @@ Cybersecurity is the measures taken to protect networks, devices, and data again
 
 ## Steps
 #### Identify
-Determinate what assets need to be protected 
+Assess risk and determine what assets to protect
 - Asset Management
 - Business Environment
 - Governance
